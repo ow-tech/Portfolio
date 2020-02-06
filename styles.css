@@ -13,6 +13,13 @@ body{
     height: 300px;
     width:300px;
     border-radius: 50%;
+    float:left;
+}
+.name{
+    float: left;
+    margin-top: 100px;
+    font-size: x-large;
+    font-weight: 500;
 }
 nav {
     text-align: center;

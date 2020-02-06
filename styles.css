@@ -9,18 +9,7 @@ body{
     background-size: cover;
     height: 500px;
 }
-.img{
-    height: 300px;
-    width:300px;
-    border-radius: 50%;
-    float:left;
-}
-.name{
-    float: left;
-    margin-top: 100px;
-    font-size: x-large;
-    font-weight: 500;
-}
+
 nav {
     text-align: center;
     /* list-style-type: none; */
@@ -42,4 +31,26 @@ ul{
 }
 a:hover{
     background-color: whitesmoke;
+}
+.img{
+    height: 300px;
+    width:300px;
+    border-radius: 50%;
+    float:left;
+}
+.name{
+    float: left;
+    margin-top: 100px;
+    font-size: x-large;
+    font-weight: 500;
+}
+.message{
+    /* width: 50%; */
+    float: right;
+    font-style: italic;
+    font-size: larger;
+    font-weight: lighter;
+    background-color: whitesmoke;
+    opacity: 0.4;
+    margin-top: 100px;
 }

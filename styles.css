@@ -64,3 +64,11 @@ a:hover{
 .float{
     float: left;
 }
+.work{
+    margin:100px;
+    /* padding:50px; */
+}
+.academic{
+    margin: 100px;
+    /* padding: 50px; */
+}

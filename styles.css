@@ -12,8 +12,7 @@ body{
 
 nav {
     text-align: center;
-    /* list-style-type: none; */
-    /* display: inline-flex; */
+
 }
 ul{
     display: inline-flex;
@@ -38,6 +37,10 @@ a:hover{
     border-radius: 50%;
     float:left;
 }
+.icon{
+    height:50px;
+    width: 50px;
+}
 .name{
     float: left;
     margin-top: 100px;
@@ -45,7 +48,6 @@ a:hover{
     font-weight: 500;
 }
 .message{
-    /* width: 50%; */
     float: right;
     font-style: italic;
     font-size: larger;
@@ -58,17 +60,12 @@ a:hover{
     text-align: center;
     margin-top: 100px;
 }
-/* #aboutme{
-    float: right;
-} */
 .float{
     float: left;
 }
 .work{
     margin:100px;
-    /* padding:50px; */
 }
 .academic{
     margin: 100px;
-    /* padding: 50px; */
 }

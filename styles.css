@@ -14,3 +14,22 @@ body{
     width:300px;
     border-radius: 50%;
 }
+nav {
+    text-align: center;
+    /* list-style-type: none; */
+    /* display: inline-flex; */
+}
+ul{
+    display: inline-flex;
+    list-style-type: none;
+}
+ li a{
+    text-decoration: none;
+    width:150px;
+    margin:15px;
+    padding:15px;
+    color:lightgreen;
+    font-size: larger;
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
+}

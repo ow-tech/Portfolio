@@ -58,3 +58,9 @@ a:hover{
     text-align: center;
     margin-top: 100px;
 }
+/* #aboutme{
+    float: right;
+} */
+.float{
+    float: left;
+}

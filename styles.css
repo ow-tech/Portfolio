@@ -49,7 +49,6 @@ a:hover{
 }
 .message{
     float: right;
-    font-style: italic;
     font-size: larger;
     font-weight: lighter;
     background-color: whitesmoke;
@@ -73,6 +72,7 @@ a:hover{
     text-align: center;
 }
 .imgo {
+    margin:50px;
     height:200px;
     width:300px;
     float:left;

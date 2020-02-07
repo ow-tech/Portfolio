@@ -12,6 +12,8 @@ body{
 
 nav {
     text-align: center;
+    position: fixed;
+    margin-left:300px;
 
 }
 ul{

@@ -9,7 +9,9 @@ Alex Mulwa Barasa
 ## Support and contact details
 {One can easily reach me via email.
 Alexbarasa0723@gmail.com}
-### License
-The license of this project is under [MIT License](LICENSE).
-Copyright (c) {year} **{Alex Mulwa Barasa}**
+### License & Copyright
+
+Copyright (c) {2020} Alex Mulwa Barasa
+
+Licensed under the [MIT License](LICENSE).
   

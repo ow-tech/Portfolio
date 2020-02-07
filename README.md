@@ -10,7 +10,7 @@ Alex Mulwa Barasa
 ## Deployment
 You can vist the site directly by clicking [here](https://ow-tech.github.io/Portfolio/)
 ## Support and contact details
-{One can easily reach me via email.
+One can easily reach me via email.
 Alexbarasa0723@gmail.com}
 ### License & Copyright
 

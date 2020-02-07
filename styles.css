@@ -1,7 +1,7 @@
 body{
     padding: 0;
     margin: 0;
-    background-color: gray;
+    /* background-color: gray; */
 }
 .top{
     background-image: url("./images/IMG-20190913-WA0016.jpg");
@@ -63,15 +63,17 @@ a:hover{
 }
 .float{
     float: left;
+    font-size: larger;
 }
 .work{
-    margin:100px;
+    margin:50px;
 }
 .academic{
-    margin: 100px;
+    margin: 50px;
 }
 #projects{
     text-align: center;
+    font-size: larger;
 }
 .imgo {
     margin:50px;
